@@ -13,6 +13,3 @@ A simple and aesthetic Pomodoro Timer built using HTML, CSS, and JavaScript to h
 ## 📁 How to Run
 1. Clone the repo
 2. Open `index.html` in your browser
-
-## 💖 Made by
-Sanjna Chahar | With little guidance 
